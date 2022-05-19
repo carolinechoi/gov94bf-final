@@ -1,0 +1,7 @@
+{
+  "name": "The Forgiveness Project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
